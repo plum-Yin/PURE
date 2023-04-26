@@ -1,0 +1,7 @@
+/.idea
+*.gz
+
+
+# download files
+/scierc_data
+/scierc_models
