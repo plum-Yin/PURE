@@ -6,7 +6,7 @@ logger = logging.getLogger('root')
 
 def batchify(samples, batch_size):
     """
-    Batchfy samples with a batch size
+    Batchify samples with a batch size
     """
     num_samples = len(samples)
 
